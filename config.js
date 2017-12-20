@@ -1,5 +1,5 @@
 module.exports = {
-    FB_PAGE_TOKEN: 'https://github.com/nikitalexstart/chatbot-facebook-nodejs.git',
+    FB_PAGE_TOKEN: 'EAAT2UVSyE8UBABAZAIsilazKo1lHbPabK3Nt7d45ZBoa55JhHoDVvzC7H3MvZB50r0I0Cf0ZA9U40drZAT2iTTOLZAPJORzNsVkZAIPOrjd9JxLuESwKZCZCQX8I1uHVDx40u7cx6HjZAbs3346QWEQImmZA6acBlXARdAPxPs8fAX34gZDZD',
     FB_VERIFY_TOKEN: 'lexstart_verify_token_messenger',
     API_AI_CLIENT_ACCESS_TOKEN: '6fcb79d044d84c80a3e47257f7b00044',
     FB_APP_SECRET: '929b9eaef3173d0ce475e2495c21625a',
